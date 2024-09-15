@@ -1,0 +1,5 @@
+chatgpt:
+  model: gpt-3.5-turbo
+  max-tokens: 100
+  url: https://api.openai.com/v1/chat/completions
+  api-key: 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
